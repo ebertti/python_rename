@@ -31,7 +31,5 @@ def main() :
 	print 'quantidade renomiados: ' + str(qtd) + ' de: ' + str(qtdArquivos)
 	print 'tempo: ' + str(datetime.now() - agora)
 	raw_input("fim")
-	
-	
 if __name__ == "__main__":
     main()
